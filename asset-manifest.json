@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mapc.github.io/60th-site/static/css/main.562c4255.css",
-    "main.js": "/mapc.github.io/60th-site/static/js/main.7baa0e95.js",
-    "static/js/787.2898c687.chunk.js": "/mapc.github.io/60th-site/static/js/787.2898c687.chunk.js",
-    "static/media/timeline.png": "/mapc.github.io/60th-site/static/media/timeline.7e712a9c0e532f1497d7.png",
-    "static/media/60th-timeline.pdf": "/mapc.github.io/60th-site/static/media/60th-timeline.b359e4a8e192f115a15e.pdf",
-    "static/media/mapc-fullcolor.png": "/mapc.github.io/60th-site/static/media/mapc-fullcolor.192d955d847e7e316d17.png",
-    "static/media/mapc-duotone.svg": "/mapc.github.io/60th-site/static/media/mapc-duotone.b8494c38f300fbf5f9eafb9ddbb28f58.svg",
-    "static/media/mapc-semitransparent.svg": "/mapc.github.io/60th-site/static/media/mapc-semitransparent.67de706a3feb52b3a3937517efa25bd5.svg",
-    "index.html": "/mapc.github.io/60th-site/index.html",
-    "main.562c4255.css.map": "/mapc.github.io/60th-site/static/css/main.562c4255.css.map",
-    "main.7baa0e95.js.map": "/mapc.github.io/60th-site/static/js/main.7baa0e95.js.map",
-    "787.2898c687.chunk.js.map": "/mapc.github.io/60th-site/static/js/787.2898c687.chunk.js.map"
+    "main.css": "/60th-site/static/css/main.562c4255.css",
+    "main.js": "/60th-site/static/js/main.48b58e27.js",
+    "static/js/787.2898c687.chunk.js": "/60th-site/static/js/787.2898c687.chunk.js",
+    "static/media/timeline.png": "/60th-site/static/media/timeline.7e712a9c0e532f1497d7.png",
+    "static/media/60th-timeline.pdf": "/60th-site/static/media/60th-timeline.b359e4a8e192f115a15e.pdf",
+    "static/media/mapc-fullcolor.png": "/60th-site/static/media/mapc-fullcolor.192d955d847e7e316d17.png",
+    "static/media/mapc-duotone.svg": "/60th-site/static/media/mapc-duotone.b8494c38f300fbf5f9eafb9ddbb28f58.svg",
+    "static/media/mapc-semitransparent.svg": "/60th-site/static/media/mapc-semitransparent.67de706a3feb52b3a3937517efa25bd5.svg",
+    "index.html": "/60th-site/index.html",
+    "main.562c4255.css.map": "/60th-site/static/css/main.562c4255.css.map",
+    "main.48b58e27.js.map": "/60th-site/static/js/main.48b58e27.js.map",
+    "787.2898c687.chunk.js.map": "/60th-site/static/js/787.2898c687.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.562c4255.css",
-    "static/js/main.7baa0e95.js"
+    "static/js/main.48b58e27.js"
   ]
 }
